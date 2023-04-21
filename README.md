@@ -20,7 +20,7 @@ The Service is a simple patient encounter REST service which includes Patient’
 1. Clone the repository
       
     ```
-    git clone https://github.com/khandelwals44/Spring-boot-Web-Services
+    git clone https://github.com/khandelwals44/Spring-boot-Web-Services.git
     ```
     
 2. Create MySQL database
