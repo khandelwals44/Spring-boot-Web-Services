@@ -1,5 +1,5 @@
 # Spring-boot-Web-Services
-https://jira2.cerner.com/browse/ACADEM-55780
+Shivam's Project
 
 # PROJECT OEVRVIEW
 The Service is a simple patient encounter REST service which includes Patient’s id, name, age and his Protocol's name and details using many to one unidirectional mapping. This data can be fetched by an API call where all the CRUD operations can be performed by referring to the MySQL Database table for the required information.
@@ -20,7 +20,7 @@ The Service is a simple patient encounter REST service which includes Patient’
 1. Clone the repository
       
     ```
-    git clone https://github.training.cerner.com/DevCenter/Spring-boot-Web-Services.git
+    git clone https://github.com/khandelwals44/Spring-boot-Web-Services.git
     ```
     
 2. Create MySQL database
